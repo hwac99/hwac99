@@ -1,5 +1,5 @@
 ## Hello everyone 👋
-I began coding since I joined <a href="http://www.tmaxsoft.com/products/tibero/">TmaxTibero</a>, which is one of rare South Korean RDBMS companies with a product called Tibero.
+I began coding since I joined <a href="http://www.tmaxsoft.com/products/tibero/">TmaxTibero</a>, which is a South Korean RDBMS company with a product called Tibero.
 Before joining TmaxTibero, I was a graduate student at <a href="https://mathsci.kaist.ac.kr/home/en/">KAIST</a> studying differential geometry.
 
 ## Projects I contributed so far 🖥️
